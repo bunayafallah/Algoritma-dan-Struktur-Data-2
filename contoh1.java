@@ -7,7 +7,7 @@ package tugas2;
 
 /**
  *
- * @author Ramdon
+ * @author Bunaya
  */
 public class contoh1 {
 
