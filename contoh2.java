@@ -7,7 +7,7 @@ package tugas2;
     import java.util.Scanner;
 /**
  *
- * @author Ramdon
+ * @author Bunaya
  */
 public class contoh2 {
 
