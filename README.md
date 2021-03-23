@@ -1,2 +1,2 @@
 # tugas
-tugasalgo
+tugas algoritma dan struktur data 2
